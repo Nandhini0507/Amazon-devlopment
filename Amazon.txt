@@ -1,0 +1,13 @@
+Example Document
+
+Amazon Development
+
+1.SIGN UP Page code
+
+2.Login page code
+
+3. Browse
+
+4. Order
+
+5.payment
